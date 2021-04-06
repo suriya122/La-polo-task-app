@@ -1,0 +1,23 @@
+body {
+    background: #eee;
+    padding: 2% 2%;
+    
+  }
+
+.ciard{
+  text-align: center; 
+  margin: 2% 2%; 
+  
+}
+h3 {
+    
+    font-weight: bold !important;
+    font-family: Montserrat;
+    color: rgb(130, 109, 150);
+}
+.card-text{
+    font-family: sans-serif;
+    font-size: 1.3em;
+}
+
+
