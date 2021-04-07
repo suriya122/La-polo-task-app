@@ -1,5 +1,10 @@
 APP RESPONSIVE PROOF VIDEO LINK-https://drive.google.com/file/d/18yWi1DWxzICQmptwadXFdLT5E-nJdinE/view
 
+NOTE: CREATE THE FOLDER'S WITH EXACT NAMES public,src,components,images, then place all images you downloaded into images folder,put image folder,index.html,styles.css files inside public folder.
+place all the jsx files  and data.js inside components folder then put component folder and index.js file inside src folder .
+then open the project location in terminal and run npm install.
+once done run command npm start to start the react local server.
+
 
 
 # Getting Started with Create React App
